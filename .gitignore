@@ -1,0 +1,13 @@
+
+/.vs/Practica/FileContentIndex
+/.vs/Practica/v17
+*.csproj
+/UserSettings
+/Temp
+/ProjectSettings
+/Packages
+*.sln
+/obj/Debug
+/Logs
+/Library
+.vsconfig
